@@ -1,19 +1,20 @@
 {
-  "name": "@7span/prettier-config",
-  "version": "1.0.0",
-  "description": "Standard config for projects",
-  "main": ".prettierrc.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jay-p-b-7span/prettier-config.git"
-  },
-  "author": "jay-p-b-7span",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jay-p-b-7span/prettier-config/issues"
-  },
-  "homepage": "https://github.com/jay-p-b-7span/prettier-config#readme"
+    "name": "@7span/prettier-config",
+    "version": "1.0.0",
+    "description": "Standard config for projects",
+    "main": ".prettierrc.json",
+    "private": false,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jay-p-b-7span/prettier-config.git"
+    },
+    "author": "jay-p-b-7span",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jay-p-b-7span/prettier-config/issues"
+    },
+    "homepage": "https://github.com/jay-p-b-7span/prettier-config#readme"
 }
